@@ -1,0 +1,14 @@
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\bin\Debug\net9.0\ConsoleApp.UserInputCalculations.exe
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\bin\Debug\net9.0\ConsoleApp.UserInputCalculations.deps.json
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\bin\Debug\net9.0\ConsoleApp.UserInputCalculations.runtimeconfig.json
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\bin\Debug\net9.0\ConsoleApp.UserInputCalculations.dll
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\bin\Debug\net9.0\ConsoleApp.UserInputCalculations.pdb
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\obj\Debug\net9.0\ConsoleApp.UserInputCalculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\obj\Debug\net9.0\ConsoleApp.UserInputCalculations.AssemblyInfoInputs.cache
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\obj\Debug\net9.0\ConsoleApp.UserInputCalculations.AssemblyInfo.cs
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\obj\Debug\net9.0\ConsoleApp.UserInputCalculations.csproj.CoreCompileInputs.cache
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\obj\Debug\net9.0\ConsoleApp.UserInputCalculations.dll
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\obj\Debug\net9.0\refint\ConsoleApp.UserInputCalculations.dll
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\obj\Debug\net9.0\ConsoleApp.UserInputCalculations.pdb
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\obj\Debug\net9.0\ConsoleApp.UserInputCalculations.genruntimeconfig.cache
+C:\Users\admin\Web Dev\ConsoleApp.UserInputCalculations\obj\Debug\net9.0\ref\ConsoleApp.UserInputCalculations.dll
