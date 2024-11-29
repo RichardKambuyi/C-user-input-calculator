@@ -1,0 +1,14 @@
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\bin\Debug\net9.0\ConsoleApp.UserInputCalculator.exe
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\bin\Debug\net9.0\ConsoleApp.UserInputCalculator.deps.json
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\bin\Debug\net9.0\ConsoleApp.UserInputCalculator.runtimeconfig.json
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\bin\Debug\net9.0\ConsoleApp.UserInputCalculator.dll
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\bin\Debug\net9.0\ConsoleApp.UserInputCalculator.pdb
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\obj\Debug\net9.0\ConsoleApp.UserInputCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\obj\Debug\net9.0\ConsoleApp.UserInputCalculator.AssemblyInfoInputs.cache
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\obj\Debug\net9.0\ConsoleApp.UserInputCalculator.AssemblyInfo.cs
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\obj\Debug\net9.0\ConsoleApp.UserInputCalculator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\obj\Debug\net9.0\ConsoleApp.UserInputCalculator.dll
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\obj\Debug\net9.0\refint\ConsoleApp.UserInputCalculator.dll
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\obj\Debug\net9.0\ConsoleApp.UserInputCalculator.pdb
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\obj\Debug\net9.0\ConsoleApp.UserInputCalculator.genruntimeconfig.cache
+C:\Users\admin\Console (c sharp)\ConsoleApp.UserInputCalculator\obj\Debug\net9.0\ref\ConsoleApp.UserInputCalculator.dll
